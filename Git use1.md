@@ -1,4 +1,4 @@
-<h1>Git use1</h1>
+<h1>Git basic</h1>
 <h2>2021-04-17<h2>
 <p>현재 시점 타임 캡슐에 묻기 git status</p>
 <p>담기 git add -A</p>
